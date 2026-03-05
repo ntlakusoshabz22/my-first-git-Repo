@@ -1,9 +1,8 @@
-# my-first-git-Repo
---Planning:
-1. Sprint One:
--Understand Project
--Daily StandUp
--Presentation.
+Project Title: IntelliBank Fraud Detection API.
 
-2. Sprint 2
+Description: A machine learning pipeline using LightGBM to predict transaction fraud with @0.7 threshold.
+
+Tech Stack: Python,Jupiter, FastAPI,RESTfulAPI, LightGBM, Scikit-Learn, Pandas, MatplotLib, Seaborn and Numpy.
+
+How to Run:  uvicorn command.
 
